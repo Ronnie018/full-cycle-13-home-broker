@@ -1,0 +1,1 @@
+docker exec -it -u root nestjs-kafka_app_1 /bin/bash
